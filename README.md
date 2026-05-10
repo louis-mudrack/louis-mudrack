@@ -1,25 +1,130 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/ce/be/fccebe7daf018850e095d9962cadebff.gif)](https://www.louismudrack.de)
-<h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">I'm a Webdesigner from Germany, currently working at wwwe GmbH. I have a passion for coding and love to learn new things!</h3>
+<!-- ═════════════════════════════ HEADER ═════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-mudrack&label=Profile%20views&color=0e75b6&style=flat" alt="louis-mudrack" /> </p>
+<a href="https://www.anisocial.de">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:845EC2,100:4A90E2&height=220&section=header&text=Louis%20Mudrack&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Berlin&descAlignY=58&descSize=18&descColor=e8e8ff" alt="Louis Mudrack"/>
+</a>
 
-<p align="left"> <a href="https://twitter.com/lekasheyy" target="blank"><img src="https://img.shields.io/twitter/follow/lekasheyy?logo=twitter&style=for-the-badge" alt="lekasheyy" /></a> </p>
+<div align="center">
+  <a href="https://www.anisocial.de">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=845EC2&center=true&vCenter=true&width=620&lines=Founder+%40+anisocial.de;Full-stack+TypeScript+Developer;Building+for+the+anime+%26+manga+community" alt="What I do" />
+  </a>
+</div>
 
-- 🌱 I’m currently building an anime social media network
+<div align="center">
 
-- 📫 How to reach me **business@anisocial.de**
+[![Website](https://img.shields.io/badge/anisocial.de-FF6B9D?style=for-the-badge&logo=safari&logoColor=white)](https://www.anisocial.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-mudrack-ab7250254)
+[![Email](https://img.shields.io/badge/business%40anisocial.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business@anisocial.de)
+[![Profile views](https://komarev.com/ghpvc/?username=louis-mudrack&style=for-the-badge&color=845EC2&label=PROFILE+VIEWS)](#)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kasheyyAims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasheyyAims" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/louis-mudrack-ab7250254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis-mudrack-ab7250254" height="30" width="40" /></a>
-<a href="https://instagram.com/louis.mdrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="louis.mdrk" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=louis-mudrack&theme=dark" alt="louis-mudrack" /></p>
+<!-- ═════════════════════════════ WHOAMI ═════════════════════════════ -->
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-mudrack&show_icons=true&theme=dark&locale=en&layout=compact" alt="louis-mudrack" /></p>
+### `~ whoami`
+
+Full-stack developer and technical director based in **Berlin, Germany**. I build products at the intersection of community, design, and engineering — currently scaling [**anisocial.de**](https://www.anisocial.de), a social platform for the German-speaking anime &amp; manga community.
+
+```ts
+const louis = {
+  role:     "Founder & Technical Director @ anisocial.de",
+  location: "Berlin, Germany",
+  focus:    ["product engineering", "design systems", "AI tooling"],
+  stack:    { lang: "TypeScript", db: "MongoDB", infra: "Docker" },
+  reach:    "business@anisocial.de",
+};
+```
+
+---
+
+<!-- ═════════════════════════ WHAT I'M BUILDING ═══════════════════════ -->
+
+### `~ what I'm building`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+#### [anisocial.de](https://www.anisocial.de)
+**Founder · Technical Director**
+
+A social network purpose-built for Germany's anime &amp; manga fans — profiles, lists, recommendations and community at scale. Designing the product, leading engineering, and shipping the stack end-to-end.
+
+<sub>`TypeScript` · `Node.js` · `MongoDB` · `Docker` · `Figma`</sub>
+
+</td>
+<td width="45%" valign="top">
+
+#### Selected work
+- [`px-to-rem`](https://github.com/louis-mudrack/px-to-rem) — TypeScript utility
+- [`devision`](https://github.com/louis-mudrack/devision) — UI / SCSS sandbox
+- Internal NestJS &middot; React dashboards
+- Exploring MCP &amp; AI design-tooling
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═════════════════════════════ STACK ═════════════════════════════ -->
+
+### `~ stack`
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Backend &amp; Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tooling &amp; Design**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-4F46E5?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═════════════════════════════ STATS ═════════════════════════════ -->
+
+### `~ stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=louis-mudrack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&bg_color=0d1117&title_color=ff6b9d&icon_color=845ec2&text_color=cdd6f4" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-mudrack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350&bg_color=0d1117&title_color=ff6b9d&text_color=cdd6f4" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to interesting collaborations &middot; reach me at <a href="mailto:business@anisocial.de">business@anisocial.de</a></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:845EC2,100:FF6B9D&height=80&section=footer" alt=""/>
