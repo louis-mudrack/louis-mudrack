@@ -8,6 +8,10 @@
 
 <br/><br/>
 
+<img src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" width="360" alt="pixel art" />
+
+<br/><br/>
+
 [![Website](https://img.shields.io/badge/ANISOCIAL.DE-9333EA?style=for-the-badge&logo=safari&logoColor=white)](https://www.anisocial.de)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-mudrack-ab7250254)
 [![Email](https://img.shields.io/badge/BUSINESS%40ANISOCIAL.DE-1E1B4B?style=for-the-badge&logo=gmail&logoColor=BD93F9)](mailto:business@anisocial.de)
@@ -36,6 +40,10 @@ I lead engineering at [**anisocial.de**](https://www.anisocial.de), a social pla
 
 ---
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2200&pause=1200&color=9333EA&center=true&vCenter=true&width=620&lines=%3E+OPENING+WORLD+MAP....;%3E+QUEST+LOG+LOADED" alt="Loading..." />
+</div>
+
 <!-- ═════════════════════════ CURRENT QUEST ═══════════════════════ -->
 
 ### `> CURRENT QUEST`
@@ -47,7 +55,7 @@ I lead engineering at [**anisocial.de**](https://www.anisocial.de), a social pla
 #### ANISOCIAL.DE
 **Boss Battle :: ongoing**
 
-A social network for Germany's anime &amp; manga fans: profiles, lists, recommendations, watchparties, community at scale. Designing the product, leading engineering, shipping the stack end-to-end.
+A social network for Germany's anime &amp; manga fans: profiles, lists, recommendations, community at scale. Designing the product, leading engineering, shipping the stack end-to-end.
 
 `TYPESCRIPT` · `NODE.JS` · `MONGODB` · `DOCKER` · `FIGMA`
 
@@ -65,6 +73,10 @@ A social network for Germany's anime &amp; manga fans: profiles, lists, recommen
 </table>
 
 ---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2200&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=%3E+OPENING+INVENTORY....;%3E+SORTING+ITEMS+BY+RARITY" alt="Loading..." />
+</div>
 
 <!-- ═════════════════════════════ INVENTORY ═════════════════════════════ -->
 
@@ -107,12 +119,16 @@ A social network for Germany's anime &amp; manga fans: profiles, lists, recommen
 
 ---
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2200&pause=1200&color=00B8FF&center=true&vCenter=true&width=620&lines=%3E+ACCESSING+STATS.SAV....;%3E+SAVE+FILE+VERIFIED" alt="Loading..." />
+</div>
+
 <!-- ═════════════════════════════ STATS ═════════════════════════════ -->
 
 ### `> STATS.SAV`
 
 ```
-╔═════════════════════[ PLAYER STATS ]═════════════════════╗
+╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║  HP   ████████████████████████░░░░   ENGINEERING         ║
 ║  MP   ████████████████████████████   PRODUCT / DESIGN    ║
@@ -140,6 +156,10 @@ A social network for Germany's anime &amp; manga fans: profiles, lists, recommen
 <!-- ═════════════════════════════ FOOTER ═════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://i.pinimg.com/originals/e0/04/97/e004972c58e401fba8b05e71348d3424.gif" width="220" alt="pixel art" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=99999&pause=900&color=BD93F9&center=true&vCenter=true&width=620&lines=%3E+INSERT+COIN+TO+CONTINUE;%3E+business%40anisocial.de" alt="Insert coin" />
 
