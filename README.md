@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" width="360" alt="pixel art" />
+<img src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" width="100%" alt="pixel art" />
 
 <br/><br/>
 
@@ -157,7 +157,7 @@ A social network for Germany's anime &amp; manga fans: profiles, lists, recommen
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/e0/04/97/e004972c58e401fba8b05e71348d3424.gif" width="220" alt="pixel art" />
+<img src="https://i.pinimg.com/originals/e0/04/97/e004972c58e401fba8b05e71348d3424.gif" width="100%" alt="pixel art" />
 
 <br/>
 
