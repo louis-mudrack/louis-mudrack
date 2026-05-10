@@ -1,21 +1,21 @@
 <!-- ═════════════════════════════ HEADER ═════════════════════════════ -->
 
 <a href="https://www.anisocial.de">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:845EC2,100:4A90E2&height=220&section=header&text=Louis%20Mudrack&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Berlin&descAlignY=58&descSize=18&descColor=e8e8ff" alt="Louis Mudrack"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:DC2626&height=220&section=header&text=Louis%20Mudrack&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Berlin&descAlignY=58&descSize=18&descColor=fde7ec" alt="Louis Mudrack"/>
 </a>
 
 <div align="center">
   <a href="https://www.anisocial.de">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=845EC2&center=true&vCenter=true&width=620&lines=Founder+%40+anisocial.de;Full-stack+TypeScript+Developer;Building+for+the+anime+%26+manga+community" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=620&lines=Founder+%40+anisocial.de;Full-stack+TypeScript+Developer;Building+for+the+anime+%26+manga+community" alt="What I do" />
   </a>
 </div>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/anisocial.de-FF6B9D?style=for-the-badge&logo=safari&logoColor=white)](https://www.anisocial.de)
+[![Website](https://img.shields.io/badge/anisocial.de-DC2626?style=for-the-badge&logo=safari&logoColor=white)](https://www.anisocial.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-mudrack-ab7250254)
-[![Email](https://img.shields.io/badge/business%40anisocial.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business@anisocial.de)
-[![Profile views](https://komarev.com/ghpvc/?username=louis-mudrack&style=for-the-badge&color=845EC2&label=PROFILE+VIEWS)](#)
+[![Email](https://img.shields.io/badge/business%40anisocial.de-18181B?style=for-the-badge&logo=gmail&logoColor=DC2626)](mailto:business@anisocial.de)
+[![Profile views](https://komarev.com/ghpvc/?username=louis-mudrack&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS)](#)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ### `~ whoami`
 
-Full-stack developer and technical director based in **Berlin, Germany**. I build products at the intersection of community, design, and engineering — currently scaling [**anisocial.de**](https://www.anisocial.de), a social platform for the German-speaking anime &amp; manga community.
+Full-stack developer and technical director based in **Berlin, Germany**. I build products at the crossroads of community, design, and engineering. Currently scaling [**anisocial.de**](https://www.anisocial.de), a social platform for the German-speaking anime &amp; manga community.
 
 ```ts
 const louis = {
@@ -50,7 +50,7 @@ const louis = {
 #### [anisocial.de](https://www.anisocial.de)
 **Founder · Technical Director**
 
-A social network purpose-built for Germany's anime &amp; manga fans — profiles, lists, recommendations and community at scale. Designing the product, leading engineering, and shipping the stack end-to-end.
+A social network purpose-built for Germany's anime &amp; manga fans: profiles, lists, recommendations and community at scale. Designing the product, leading engineering, shipping the stack end-to-end.
 
 <sub>`TypeScript` · `Node.js` · `MongoDB` · `Docker` · `Figma`</sub>
 
@@ -58,8 +58,8 @@ A social network purpose-built for Germany's anime &amp; manga fans — profiles
 <td width="45%" valign="top">
 
 #### Selected work
-- [`px-to-rem`](https://github.com/louis-mudrack/px-to-rem) — TypeScript utility
-- [`devision`](https://github.com/louis-mudrack/devision) — UI / SCSS sandbox
+- [`px-to-rem`](https://github.com/louis-mudrack/px-to-rem) · TypeScript utility
+- [`devision`](https://github.com/louis-mudrack/devision) · UI / SCSS sandbox
 - Internal NestJS &middot; React dashboards
 - Exploring MCP &amp; AI design-tooling
 
@@ -116,15 +116,19 @@ A social network purpose-built for Germany's anime &amp; manga fans — profiles
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=louis-mudrack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&bg_color=0d1117&title_color=ff6b9d&icon_color=845ec2&text_color=cdd6f4" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-mudrack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350&bg_color=0d1117&title_color=ff6b9d&text_color=cdd6f4" alt="Top languages" />
+<a href="https://github.com/louis-mudrack">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=louis-mudrack&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/louis-mudrack">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-mudrack&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Open to interesting collaborations &middot; reach me at <a href="mailto:business@anisocial.de">business@anisocial.de</a></sub>
+  <sub>Open to interesting collaborations. Reach me at <a href="mailto:business@anisocial.de">business@anisocial.de</a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:845EC2,100:FF6B9D&height=80&section=footer" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:18181B&height=80&section=footer" alt=""/>
